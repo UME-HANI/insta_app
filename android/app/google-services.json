@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660342238489",
+    "project_id": "fir-instal",
+    "storage_bucket": "fir-instal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660342238489:android:6a874db11ea35af1d5a988",
+        "android_client_info": {
+          "package_name": "com.example.insta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKa4qvpg3dai9Pjq6qS71aRn1wZo5vfXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
